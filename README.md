@@ -1,3 +1,24 @@
+🚨 SUI OVERFLOW 2026 HACKATHON UPDATE 🚨
+To all SUI Builders & Web3 Developers: Read this first.
+
+What you see below is our baseline Cybersecurity PoC (Proof of Concept). It was built as a psychological and technical challenge against Korean APT Analysts to prove our White Box Agentic Logic. Yes, it is aggressive. Yes, it possesses OS-level destructive capabilities.
+
+For the SUI Overflow Hackathon (Agentic Web Track), we are pivoting this exact architecture:
+
+The Old Target (CyberSec Game): Interrogating the OS Environment. If a malware analyst uses a VM -> Annihilate the executable and lock the system.
+
+The New Target (Web3 Reality): Interrogating the Blockchain Environment. If a SUI user interacts with a Scam/Drainer Smart Contract -> Annihilate the transaction signature and protect the wallet.
+
+How we will work together:
+You DO NOT need to download or run this weaponized binary on your machine. For the Hackathon, Bangsaen AI is lifting this core C++ interrogation engine to the Cloud.
+
+We will provide a clean, scalable API Endpoint. You focus on writing SUI Move and building the dApp. We will provide the ultimate Agentic Security Gatekeeper to filter your transactions.
+
+Let's build the unhackable. See you at the ON THE MOVE event this Saturday.
+
+---
+
+
 # 🌑 Protocol 1042: The True Zero-Trace Agentic Architecture
 
 **[ PROJECT STATUS: CLASSIFIED PoC ]**

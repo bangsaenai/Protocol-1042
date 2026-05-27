@@ -19,7 +19,7 @@ We are shifting the burden of security from the user's intuition to a **Determin
 
 ## 👁️‍🗨️ Visualizing The Black Hole Architecture
 
-![The Black Hole Protocol: Shredding Web3 Threats Before They Strike](blackhole_protocal1042.png)
+![The Black Hole Protocol: Shredding Web3 Threats Before They Strike](blackhole_protocal1042.PNG)
 
 *(Architecture Flow: From Interception to Zero-Trace Execution)*
 

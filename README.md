@@ -1,3 +1,28 @@
+## 🚨 URGENT: THE MAY 2026 SUI MAINNET HALT (AND WHY WE SURVIVE IT) 🚨
+
+On May 28-29, 2026, the **Sui Mainnet collapsed three times**. According to their official post-mortem, the root cause was an underflow triggered by complex state mutations (gas smashing) during transaction cancellations. 
+
+**The fatal flaw?** Sui validators allowed sterile, anomalous inputs to reach the core state machine. They tried to resolve the problem *during execution*.
+
+**Sui's Post-Mortem Conclusion:** *"The system lacks a defense-in-depth layer that would bound the blast radius... failure containment is an area worth deeper ecosystem investment."* They also explicitly called for the integration of **"AI agents."**
+
+### 🛡️ ENTER PROTOCOL 1042: WE DON'T EXECUTE. WE INTERROGATE.
+
+What Sui is currently wishing for, **we have already built.**
+
+Protocol 1042 is the exact "Failure Containment Edge AI" the ecosystem is bleeding for. We do not rely on passive `if-else` gas logic. We operate at the Spatio-Temporal physical layer. 
+
+Before a payload even touches the core state or triggers gas smashing, our **Agentic Gatekeeper** evaluates its **Kinetic Energy and Chaos Entropy (Koopman Operator Kinematics)**. 
+* A script/bot payload has zero energy variance. 
+* We detect the mathematical impossibility of the request.
+* **We shred the payload at the network edge.**
+
+No execution. No underflow. No network halt. 
+
+While the world is writing proposals for "better failure containment", Protocol 1042 is already deployed. Try to bypass our Gateway. You will fail.
+
+---
+
 # 🕳️ Protocol 1042: The SUI Black Hole (Zero-Trace Agentic Gatekeeper)
 
 **[ SUI OVERFLOW 2026: AGENTIC WEB TRACK ]**
